@@ -23,6 +23,12 @@ body {
   font-family: 'Hind', sans-serif;
 }
 
+.into {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
 img {
   max-width: 50%;
   height: auto;
