@@ -42,6 +42,6 @@ img {
   -moz-transition: color 0.3s linear;
 }
 
-.fade-link : hover {
+.fade-link:hover {
   color: white;
 }
