@@ -40,9 +40,9 @@ a {
 }
 
 .fade-link {
-  transition: color 0.3s linear;
-  -webkit-transition: color 0.3s linear;
   -moz-transition: color 0.3s linear;
+  -webkit-transition: color 0.3s linear;
+  transition: color 0.3s linear;
 }
 
 .fade-link:hover {
