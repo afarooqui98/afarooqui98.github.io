@@ -34,9 +34,12 @@ img {
   height: auto;
 }
 
-.fade-link {
+a { 
   text-decoration: none;
   color: black;
+}
+
+.fade-link {
   transition: color 0.3s linear;
   -webkit-transition: color 0.3s linear;
   -moz-transition: color 0.3s linear;
